@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.dd77de90152af034df73390043cf4cd7.js"
+  "/precache-manifest.7967c1d5d12fc4762ee2eb5cf8ad7c60.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "su-kuyulari"});
