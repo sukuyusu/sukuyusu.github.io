@@ -17,7 +17,7 @@ importScripts(
   "/precache-manifest.a286e57844dc6f6bfcc5e5594a647eee.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "su-kuyulari"});
+workbox.core.setCacheNameDetails({prefix: "su-kuyularia"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
